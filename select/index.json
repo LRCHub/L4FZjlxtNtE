@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Gone, Gone, Gone",
+  "base_artist": "Phillip Phillips",
+  "createdAt": "2026-02-25T05:37:58.546065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gone Gone Gone",
+      "artist": "The Notwist",
+      "has_synced": true,
+      "path": "select/01_Gone_Gone_Gone_The_Notwist.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Nikki Lane",
+      "has_synced": true,
+      "path": "select/02_Gone,_Gone,_Gone_Nikki_Lane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gone Gone Gone",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/03_Gone_Gone_Gone_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/04_Gone,_Gone,_Gone_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Beautiful Bodies",
+      "has_synced": true,
+      "path": "select/05_Gone,_Gone,_Gone_Beautiful_Bodies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gone Gone Gone",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/06_Gone_Gone_Gone_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gone Gone Gone",
+      "artist": "Ladyhawke",
+      "has_synced": false,
+      "path": "select/07_Gone_Gone_Gone_Ladyhawke.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gone Gone Gone",
+      "artist": "Trip Shakespeare",
+      "has_synced": false,
+      "path": "select/08_Gone_Gone_Gone_Trip_Shakespeare.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/09_Gone,_Gone,_Gone_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "gone gone gone",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/10_gone_gone_gone_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone (Done Moved On)",
+      "artist": "Robert Plant feat. Alison Krauss",
+      "has_synced": true,
+      "path": "select/11_Gone,_Gone,_Gone_(Done_Moved_On)_Robert_Plant_feat._Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gone Gone Gone (Done Moved On)",
+      "artist": "Robert Plant",
+      "has_synced": true,
+      "path": "select/12_Gone_Gone_Gone_(Done_Moved_On)_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Tommy James & The Shondells",
+      "has_synced": false,
+      "path": "select/13_Gone,_Gone,_Gone_Tommy_James_&_The_Shondells.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gone, Gone, Gone",
+      "artist": "Phillip Phillips",
+      "has_synced": true,
+      "path": "select/14_Gone,_Gone,_Gone_Phillip_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Girl (Gone, Gone, Gone)",
+      "artist": "Chilliwack",
+      "has_synced": true,
+      "path": "select/15_My_Girl_(Gone,_Gone,_Gone)_Chilliwack.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "She's Gone, Gone, Gone",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/16_She's_Gone,_Gone,_Gone_Willie_Nelson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gone, Gone, Gone",
+      "artist": "Phillip Phillips",
+      "has_synced": false,
+      "path": "select/pl_01_Gone,_Gone,_Gone_Phillip_Phillips.txt"
+    }
+  ]
+}
